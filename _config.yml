@@ -1,3 +1,10 @@
-# title: "Minho’s Learning Journal"
-# description: "documenting the things I am learning at the moment, programming, cybersecurity, and math"
+title: "Minho Lee · Learning Journal"
+description: "Georgia Tech MS Cybersecurity — notes & thoughts"
 theme: minima
+
+header_pages:
+  - malware-analysis.md
+  - cryptography.md
+  - security-policy.md
+  - information-security.md
+  - tags.md
