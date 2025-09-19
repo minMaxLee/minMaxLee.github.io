@@ -1,3 +1,5 @@
+<!-- ## Hi there 👋 -->
+
 <!--
 **minMaxLee/minmaxlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,10 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-layout: home
-title: "Learning Journal"
-
-Welcome to my learning journal. I’m documenting what I learn in programming, cybersecurity, and math.
-EOF
