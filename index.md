@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+layout: home
+title: "Learning Journal"
+
+Welcome to my learning journal. I’m documenting what I learn in programming, cybersecurity, and math.
+EOF
