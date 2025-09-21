@@ -1,3 +1,11 @@
+---
+layout: post
+title: "IND-CPA Security"
+date: 2025-09-21 12:00:00 -0400
+categories: cryptography
+tags: [Fall2025, notes]
+---
+
 ### IND-CPA Security
 
 I had taken two Number Theory classes in undergrad which formed a good mathematical foundation for understanding encryption protocols. Something new I learned in the first week of Applied Cryptography class was the idea of **IND-CPA** (Indistinguishability under Chosen-Plaintext Attacks).
