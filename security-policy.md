@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Information Security Policies
+title: Security Policies
 permalink: /security-policy/
 ---
 
