@@ -4,7 +4,7 @@ title: Information Security
 permalink: /information-security/
 ---
 
-{% assign posts = site.categories.minformation-security %}
+{% assign posts = site.categories.information-security %}
 {% if posts and posts != empty %}
 {% for post in posts %}
 - {{ post.date | date: "%b %d, %Y" }} — [{{ post.title }}]({{ post.url }})
